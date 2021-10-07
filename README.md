@@ -36,9 +36,6 @@
 ### 배너 이미지 슬라이드
 <img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/gabia-clone-1.gif">
 
-### 이미지 오버시 애니메이션 구현
-<img width="1100" alt="MainPage" src="https://dev-lee-js.github.io/portfolio/images/gabia-clone-2.gif">
-
 ### 반응형 구현
 <img width="1100" alt="MainPage" src="https://raw.githubusercontent.com/Dev-Lee-js/portfolio/gh-pages/images/gabia-main-2.PNG">
 
